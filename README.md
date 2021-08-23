@@ -1,2 +1,2 @@
-# piss
-Personal Information System Software
+# pis
+Personal Information System
